@@ -1,6 +1,6 @@
 # Remote-Pump-Control-System
 
-## Tool: Arduino IDE, Android studio
+## Tool: Visual Studio, Android studio
 ## Language: C\C++, Java
 ## Protocol: HTTP
 ## Cloud: Firebase
