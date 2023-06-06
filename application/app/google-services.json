@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4101973328",
+    "firebase_url": "https://remotepumpbt-default-rtdb.firebaseio.com",
+    "project_id": "remotepumpbt",
+    "storage_bucket": "remotepumpbt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4101973328:android:834808923660258c237855",
+        "android_client_info": {
+          "package_name": "com.example.iukhinmybm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4101973328-bjfh9sfdepj5rmdq64u3idkkuj63665a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uTWNkluS66wlQiqeXTaaZ2gykuah4P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4101973328-bjfh9sfdepj5rmdq64u3idkkuj63665a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

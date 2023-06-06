@@ -1,0 +1,450 @@
+{
+  "name": "android_large_1",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "hZx5URTcZ7XIcNr7WtPuUA",
+    "node": "36:349",
+    "version": "3482936905",
+    "component-id": "0c10660d57e58f373ec5fde179964065d640bee6"
+  },
+  "default": "Android Large - 1",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "adin_component",
+        "id": "Navigation bar Android",
+        "key": "navigation_bar_android"
+      },
+      {
+        "type": "group",
+        "id": "Frame 6"
+      },
+      {
+        "type": "group",
+        "id": "Frame 5"
+      },
+      {
+        "type": "group",
+        "id": "Frame 7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 8"
+      },
+      {
+        "type": "text",
+        "id": "Máy bơm đã kết nối mạng"
+      },
+      {
+        "type": "group",
+        "id": "Group 1"
+      },
+      {
+        "type": "vector",
+        "id": "path108"
+      },
+      {
+        "type": "vector",
+        "id": "path110"
+      },
+      {
+        "type": "vector",
+        "id": "path112"
+      },
+      {
+        "type": "vector",
+        "id": "path114"
+      },
+      {
+        "type": "text",
+        "id": "ON"
+      },
+      {
+        "type": "text",
+        "id": "OFF"
+      }
+    ],
+    "modes": {
+      "Android Large - 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Navigation bar Android",
+              "Frame 6",
+              "Frame 5",
+              "Frame 7",
+              "Frame 8"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Navigation bar Android",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "96.0"
+              }
+            }
+          },
+          {
+            "id": "Frame 6",
+            "padding": {
+              "left": "16.0",
+              "top": "12.0",
+              "right": "16.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "32.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "124.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Máy bơm đã kết nối mạng"
+            ],
+            "item-spacing": "4.0",
+            "background-color": {
+              "alpha": "0.09803921568627451",
+              "hue": "132.91139240506328",
+              "saturation": "1.0",
+              "value": "0.6196078431372549"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 5",
+            "border-radius": "36.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "195.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "317.0"
+              }
+            },
+            "stroke-width": "2.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "220.00000000000009",
+              "saturation": "0.02542372881355935",
+              "value": "0.9254901960784314"
+            },
+            "is-structured": "false",
+            "children": [
+              "Group 1"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Frame 7",
+            "padding": {
+              "left": "66.0",
+              "top": "12.0",
+              "right": "66.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "16.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.30980392156862746",
+                "hue": "213.3913043478261",
+                "saturation": "1.0",
+                "value": "0.9019607843137255"
+              },
+              "blur": "9.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "-2.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "544.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "156.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "ON"
+            ],
+            "item-spacing": "4.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "213.3913043478261",
+              "saturation": "1.0",
+              "value": "0.9019607843137255"
+            }
+          },
+          {
+            "id": "Frame 8",
+            "padding": {
+              "left": "66.0",
+              "top": "12.0",
+              "right": "66.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "16.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "188.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "544.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "156.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "OFF"
+            ],
+            "item-spacing": "4.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "212.72727272727275",
+              "saturation": "0.08730158730158732",
+              "value": "0.9882352941176471"
+            }
+          },
+          {
+            "id": "Máy bơm đã kết nối mạng",
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "132.91139240506328",
+              "saturation": "1.0",
+              "value": "0.6196078431372549"
+            },
+            "text-content": "Máy bơm đã kết nối mạng",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Group 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.4581451416015625"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "227.08370971679688"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "227.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "path108",
+              "path110",
+              "path112",
+              "path114"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "path108",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "path108.svg"
+          },
+          {
+            "id": "path110",
+            "margin": {
+              "left": "25.519393920898438",
+              "top": "16.713424682617188",
+              "right": "25.559295654296875",
+              "bottom": "16.713027954101562"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "path110.svg"
+          },
+          {
+            "id": "path112",
+            "margin": {
+              "left": "66.8008041381836",
+              "top": "66.8007583618164",
+              "right": "66.80084991455078",
+              "bottom": "66.80081176757812"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "path112.svg"
+          },
+          {
+            "id": "path114",
+            "margin": {
+              "left": "84.39510345458984",
+              "top": "84.39518356323242",
+              "right": "84.4791030883789",
+              "bottom": "84.3953857421875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "path114.svg"
+          },
+          {
+            "id": "ON",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "ON",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "OFF",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "213.3913043478261",
+              "saturation": "1.0",
+              "value": "0.9019607843137255"
+            },
+            "text-content": "OFF",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Android Large - 1",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

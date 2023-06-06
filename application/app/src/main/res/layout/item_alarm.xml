@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp"
+    app:cardCornerRadius="20dp"
+    android:background="@color/cardview_light_background"
+    android:layout_marginBottom="10dp"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#222222"
+        android:orientation="horizontal"
+        android:padding="40dp">
+
+
+        <LinearLayout
+            android:layout_width="112dp"
+            android:layout_height="130dp"
+            android:background="#222222"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textTime"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textColor="@android:color/white"
+                android:textSize="35sp" />
+
+            <TextView
+                android:id="@+id/textDate"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:textColor="@android:color/white"
+                android:textSize="13sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#222222"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thời gian bơm"
+                android:textSize="15sp"
+                android:textColor="@android:color/white"
+                android:background="#222222"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:id="@+id/timePump"
+                android:layout_width="128dp"
+                android:layout_height="52dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="7dp"
+                android:background="#222222"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:src="@drawable/delete3"
+            android:background="#222222"
+            android:id="@+id/deleteTask"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

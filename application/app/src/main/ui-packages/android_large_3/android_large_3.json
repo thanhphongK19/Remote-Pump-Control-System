@@ -1,0 +1,1738 @@
+{
+  "name": "android_large_3",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "hZx5URTcZ7XIcNr7WtPuUA",
+    "node": "63:125",
+    "version": "3482936905",
+    "component-id": "e7d4553f41265c479a6afaeedf89d726e20d8b0c"
+  },
+  "default": "Android Large - 3",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "adin_component",
+        "id": "Navigation bar Android",
+        "key": "navigation_bar_android"
+      },
+      {
+        "type": "group",
+        "id": "Frame 13"
+      },
+      {
+        "type": "group",
+        "id": "Frame 7"
+      },
+      {
+        "type": "group",
+        "id": "Frame 10"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11"
+      },
+      {
+        "type": "group",
+        "id": "Frame 12"
+      },
+      {
+        "type": "group",
+        "id": "Frame 14"
+      },
+      {
+        "type": "group",
+        "id": "Frame 15"
+      },
+      {
+        "type": "text",
+        "id": "20:00"
+      },
+      {
+        "type": "text",
+        "id": "Thời gian bơm: 20 phút"
+      },
+      {
+        "type": "group",
+        "id": "Frame 16"
+      },
+      {
+        "type": "group",
+        "id": "Frame 17"
+      },
+      {
+        "type": "group",
+        "id": "ci:edit"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "group",
+        "id": "Close"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "text",
+        "id": "20:1"
+      },
+      {
+        "type": "text",
+        "id": "Thời gian bơm: 20 phút1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 18"
+      },
+      {
+        "type": "group",
+        "id": "Frame 19"
+      },
+      {
+        "type": "group",
+        "id": "ci:edit1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "group",
+        "id": "Close1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "text",
+        "id": "20:2"
+      },
+      {
+        "type": "text",
+        "id": "Thời gian bơm: 20 phút2"
+      },
+      {
+        "type": "group",
+        "id": "Frame 20"
+      },
+      {
+        "type": "group",
+        "id": "Frame 21"
+      },
+      {
+        "type": "group",
+        "id": "ci:edit2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "group",
+        "id": "Close2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      },
+      {
+        "type": "vector",
+        "id": "Vector8"
+      },
+      {
+        "type": "text",
+        "id": "20:3"
+      },
+      {
+        "type": "text",
+        "id": "Thời gian bơm: 20 phút3"
+      },
+      {
+        "type": "group",
+        "id": "Frame 22"
+      },
+      {
+        "type": "group",
+        "id": "Frame 23"
+      },
+      {
+        "type": "group",
+        "id": "ci:edit3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector9"
+      },
+      {
+        "type": "group",
+        "id": "Close3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector10"
+      },
+      {
+        "type": "vector",
+        "id": "Vector11"
+      },
+      {
+        "type": "text",
+        "id": "20:4"
+      },
+      {
+        "type": "text",
+        "id": "Thời gian bơm: 20 phút4"
+      },
+      {
+        "type": "group",
+        "id": "Frame 24"
+      },
+      {
+        "type": "group",
+        "id": "Frame 25"
+      },
+      {
+        "type": "group",
+        "id": "ci:edit4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector12"
+      },
+      {
+        "type": "group",
+        "id": "Close4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector13"
+      },
+      {
+        "type": "vector",
+        "id": "Vector14"
+      },
+      {
+        "type": "text",
+        "id": "Thêm báo thức"
+      }
+    ],
+    "modes": {
+      "Android Large - 3": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Navigation bar Android",
+              "Frame 13",
+              "Frame 7"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "214.28571428571428",
+              "saturation": "0.05714285714285717",
+              "value": "0.9607843137254902"
+            }
+          },
+          {
+            "id": "Navigation bar Android",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "96.0"
+              }
+            }
+          },
+          {
+            "id": "Frame 13",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "112.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Frame 10",
+              "Frame 11",
+              "Frame 12",
+              "Frame 14",
+              "Frame 15"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 7",
+            "padding": {
+              "left": "109.0",
+              "top": "16.0",
+              "right": "109.0",
+              "bottom": "16.0"
+            },
+            "border-radius": "16.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.30980392156862746",
+                "hue": "213.3913043478261",
+                "saturation": "1.0",
+                "value": "0.9019607843137255"
+              },
+              "blur": "9.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "-2.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "656.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Thêm báo thức"
+            ],
+            "item-spacing": "4.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "213.3913043478261",
+              "saturation": "1.0",
+              "value": "0.9019607843137255"
+            }
+          },
+          {
+            "id": "Frame 10",
+            "border-radius": "22.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "88.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "20:00",
+              "Thời gian bơm: 20 phút",
+              "Frame 16",
+              "Frame 17"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Frame 11",
+            "border-radius": "22.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "88.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "20:1",
+              "Thời gian bơm: 20 phút1",
+              "Frame 18",
+              "Frame 19"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Frame 12",
+            "border-radius": "22.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "88.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "20:2",
+              "Thời gian bơm: 20 phút2",
+              "Frame 20",
+              "Frame 21"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Frame 14",
+            "border-radius": "22.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "88.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "20:3",
+              "Thời gian bơm: 20 phút3",
+              "Frame 22",
+              "Frame 23"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Frame 15",
+            "border-radius": "22.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "88.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "20:4",
+              "Thời gian bơm: 20 phút4",
+              "Frame 24",
+              "Frame 25"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "20:00",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "213.3913043478261",
+              "saturation": "1.0",
+              "value": "0.9019607843137255"
+            },
+            "text-content": "20:00",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "32.0",
+            "line-height": "1.25"
+          },
+          {
+            "id": "Thời gian bơm: 20 phút",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "53.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "Thời gian bơm: 20 phút",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "15"
+                },
+                {
+                  "span-start": "15",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "213.3913043478261",
+                      "saturation": "1.0",
+                      "value": "0.9019607843137255"
+                    }
+                  }
+                },
+                {
+                  "span-start": "17",
+                  "span-length": "5"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "line-height": "1.5714285278320312"
+          },
+          {
+            "id": "Frame 16",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "232.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "ci:edit"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "212.72727272727275",
+              "saturation": "0.08730158730158732",
+              "value": "0.9882352941176471"
+            }
+          },
+          {
+            "id": "Frame 17",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "272.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Close"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.06504065040650406",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "ci:edit",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "3.416015625",
+              "top": "2.3596954345703125",
+              "right": "2.3597412109375",
+              "bottom": "3.4210052490234375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Close",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector1",
+              "Vector2"
+            ]
+          },
+          {
+            "id": "Vector1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector2",
+            "margin": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "20:1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "213.3913043478261",
+              "saturation": "1.0",
+              "value": "0.9019607843137255"
+            },
+            "text-content": "20:00",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "32.0",
+            "line-height": "1.25"
+          },
+          {
+            "id": "Thời gian bơm: 20 phút1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "53.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "Thời gian bơm: 20 phút",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "15"
+                },
+                {
+                  "span-start": "15",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "213.3913043478261",
+                      "saturation": "1.0",
+                      "value": "0.9019607843137255"
+                    }
+                  }
+                },
+                {
+                  "span-start": "17",
+                  "span-length": "5"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "line-height": "1.5714285278320312"
+          },
+          {
+            "id": "Frame 18",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "232.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "ci:edit1"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "212.72727272727275",
+              "saturation": "0.08730158730158732",
+              "value": "0.9882352941176471"
+            }
+          },
+          {
+            "id": "Frame 19",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "272.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Close1"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.06504065040650406",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "ci:edit1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector3"
+            ]
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "3.416015625",
+              "top": "2.359710693359375",
+              "right": "2.3597412109375",
+              "bottom": "3.420989990234375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector6.svg"
+          },
+          {
+            "id": "Close1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector4",
+              "Vector5"
+            ]
+          },
+          {
+            "id": "Vector4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector5",
+            "margin": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector7.svg"
+          },
+          {
+            "id": "20:2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "213.3913043478261",
+              "saturation": "1.0",
+              "value": "0.9019607843137255"
+            },
+            "text-content": "20:00",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "32.0",
+            "line-height": "1.25"
+          },
+          {
+            "id": "Thời gian bơm: 20 phút2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "53.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "Thời gian bơm: 20 phút",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "15"
+                },
+                {
+                  "span-start": "15",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "213.3913043478261",
+                      "saturation": "1.0",
+                      "value": "0.9019607843137255"
+                    }
+                  }
+                },
+                {
+                  "span-start": "17",
+                  "span-length": "5"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "line-height": "1.5714285278320312"
+          },
+          {
+            "id": "Frame 20",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "232.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "ci:edit2"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "212.72727272727275",
+              "saturation": "0.08730158730158732",
+              "value": "0.9882352941176471"
+            }
+          },
+          {
+            "id": "Frame 21",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "272.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Close2"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.06504065040650406",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "ci:edit2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector6"
+            ]
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "left": "3.416015625",
+              "top": "2.359710693359375",
+              "right": "2.3597412109375",
+              "bottom": "3.420989990234375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector8.svg"
+          },
+          {
+            "id": "Close2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector7",
+              "Vector8"
+            ]
+          },
+          {
+            "id": "Vector7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector8",
+            "margin": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector9.svg"
+          },
+          {
+            "id": "20:3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "213.3913043478261",
+              "saturation": "1.0",
+              "value": "0.9019607843137255"
+            },
+            "text-content": "20:00",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "32.0",
+            "line-height": "1.25"
+          },
+          {
+            "id": "Thời gian bơm: 20 phút3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "53.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "Thời gian bơm: 20 phút",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "15"
+                },
+                {
+                  "span-start": "15",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "213.3913043478261",
+                      "saturation": "1.0",
+                      "value": "0.9019607843137255"
+                    }
+                  }
+                },
+                {
+                  "span-start": "17",
+                  "span-length": "5"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "line-height": "1.5714285278320312"
+          },
+          {
+            "id": "Frame 22",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "232.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "ci:edit3"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "212.72727272727275",
+              "saturation": "0.08730158730158732",
+              "value": "0.9882352941176471"
+            }
+          },
+          {
+            "id": "Frame 23",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "272.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Close3"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.06504065040650406",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "ci:edit3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector9"
+            ]
+          },
+          {
+            "id": "Vector9",
+            "margin": {
+              "left": "3.416015625",
+              "top": "2.35968017578125",
+              "right": "2.3597412109375",
+              "bottom": "3.4210205078125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector10.svg"
+          },
+          {
+            "id": "Close3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector10",
+              "Vector11"
+            ]
+          },
+          {
+            "id": "Vector10",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector11",
+            "margin": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector11.svg"
+          },
+          {
+            "id": "20:4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "213.3913043478261",
+              "saturation": "1.0",
+              "value": "0.9019607843137255"
+            },
+            "text-content": "20:00",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "32.0",
+            "line-height": "1.25"
+          },
+          {
+            "id": "Thời gian bơm: 20 phút4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "53.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "Thời gian bơm: 20 phút",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "15"
+                },
+                {
+                  "span-start": "15",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "213.3913043478261",
+                      "saturation": "1.0",
+                      "value": "0.9019607843137255"
+                    }
+                  }
+                },
+                {
+                  "span-start": "17",
+                  "span-length": "5"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "line-height": "1.5714285278320312"
+          },
+          {
+            "id": "Frame 24",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "232.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "ci:edit4"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "212.72727272727275",
+              "saturation": "0.08730158730158732",
+              "value": "0.9882352941176471"
+            }
+          },
+          {
+            "id": "Frame 25",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "272.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Close4"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.06504065040650406",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "ci:edit4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector12"
+            ]
+          },
+          {
+            "id": "Vector12",
+            "margin": {
+              "left": "3.416015625",
+              "top": "2.35968017578125",
+              "right": "2.3597412109375",
+              "bottom": "3.4210205078125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector12.svg"
+          },
+          {
+            "id": "Close4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "4.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector13",
+              "Vector14"
+            ]
+          },
+          {
+            "id": "Vector13",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector14",
+            "margin": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector13.svg"
+          },
+          {
+            "id": "Thêm báo thức",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Thêm báo thức",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Android Large - 3",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
